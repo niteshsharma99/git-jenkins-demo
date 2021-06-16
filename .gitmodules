@@ -1,0 +1,3 @@
+[submodule "git-jenkins-demo-2"]
+	path = git-jenkins-demo-2
+	url = https://github.com/niteshsharma99/git-jenkins-demo-2.git
